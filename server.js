@@ -1,6 +1,3 @@
-// server.js — run with: node server.js
-// Then open http://localhost:3000 in your browser
-
 const http = require('http');
 const fs   = require('fs');
 const path = require('path');
