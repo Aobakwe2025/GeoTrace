@@ -1,0 +1,11 @@
+{
+  "name": "geotrace",
+  "version": "1.0.0",
+  "description": "IP Geolocation Map — fetch location data for any IP and display it on an interactive map",
+  "main": "api/lookup.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "keywords": ["geolocation", "ip", "map", "leaflet"],
+  "license": "MIT"
+}
