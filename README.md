@@ -37,6 +37,7 @@ The key engineering challenge this project solves: browsers block direct API cal
 - 📱 **Responsive** — works on desktop and mobile
 
 ---
+![Screenshot_23-2-2026_182341_localhost](https://github.com/user-attachments/assets/816e56dc-71d6-4f9a-826b-24e9e21f7bd1)
 
 ## 🗂️ Project Structure
 
